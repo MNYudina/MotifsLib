@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="com.asoiu.motifs" project="MotifsLib" file="/MotifsLib/src/com/asoiu/motifs" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="67" width="122" x="63" y="16"/>    
+    <display autosize="false" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="com.asoiu.motifs.exception" project="MotifsLib" 
+    file="/MotifsLib/src/com/asoiu/motifs/exception" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="366" y="48"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="3" language="java" name="com.asoiu.motifs.CreateKoefMass" project="MotifsLib" 
+    file="/MotifsLib/src/com/asoiu/motifs/CreateKoefMass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="87" y="199"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.asoiu.motifs.DirFourSizeSubgraphsCounterFullEnumeration" project="MotifsLib" 
+    file="/MotifsLib/src/com/asoiu/motifs/DirFourSizeSubgraphsCounterFullEnumeration.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="123" width="361" x="886" y="32"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.asoiu.motifs.DirFourSizeSubgraphsCounterSampling" project="MotifsLib" 
+    file="/MotifsLib/src/com/asoiu/motifs/DirFourSizeSubgraphsCounterSampling.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="360" x="888" y="290"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.asoiu.motifs.DirThreeSizeSubgraphsCounterFullEnumeration" project="MotifsLib" 
+    file="/MotifsLib/src/com/asoiu/motifs/DirThreeSizeSubgraphsCounterFullEnumeration.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="131" width="362" x="469" y="29"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.asoiu.motifs.DirThreeSizeSubgraphsCounterSampling" project="MotifsLib" 
+    file="/MotifsLib/src/com/asoiu/motifs/DirThreeSizeSubgraphsCounterSampling.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="108" width="354" x="472" y="442"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.asoiu.motifs.ParallelDirFourSizeSubgraphsCounterFullEnumeration" 
+    project="MotifsLib" file="/MotifsLib/src/com/asoiu/motifs/ParallelDirFourSizeSubgraphsCounterFullEnumeration.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="110" width="361" x="886" y="170"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.asoiu.motifs.ParallelDirFourSizeSubgraphsCounterSampling" project="MotifsLib" 
+    file="/MotifsLib/src/com/asoiu/motifs/ParallelDirFourSizeSubgraphsCounterSampling.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="114" width="369" x="883" y="437"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.asoiu.motifs.ParallelDirThreeSizeSubgraphsCounterSampling" 
+    project="MotifsLib" file="/MotifsLib/src/com/asoiu/motifs/ParallelDirThreeSizeSubgraphsCounterSampling.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="353" x="473" y="303"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.asoiu.motifs.ParallelDirThreeSizeSubgraphsCounterFullEnumeration" 
+    project="MotifsLib" file="/MotifsLib/src/com/asoiu/motifs/ParallelDirThreeSizeSubgraphsCounterFullEnumeration.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="121" width="358" x="469" y="171"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.asoiu.motifs.Test" project="MotifsLib" 
+    file="/MotifsLib/src/com/asoiu/motifs/Test.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="163" width="203" x="19" y="298"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.asoiu.motifs.TestRandEsuAlgorithm" project="MotifsLib" 
+    file="/MotifsLib/src/com/asoiu/motifs/TestRandEsuAlgorithm.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="153" x="176" y="123"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.asoiu.motifs.Test2" project="MotifsLib" 
+    file="/MotifsLib/src/com/asoiu/motifs/Test2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="161" width="225" x="233" y="299"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
