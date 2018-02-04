@@ -1,7 +1,7 @@
 package com.asoiu.motifs.exception;
 
 /**
- * @author Yudina Maria
+ * @author Yudina Maria N
  */
 public class GraphStatsException extends Exception {
 	
